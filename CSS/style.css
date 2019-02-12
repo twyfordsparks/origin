@@ -1,0 +1,28 @@
+img {
+    float: left;
+    width: 350px;
+
+}
+h1 {
+    font-size: large;
+    text-align: center;
+    background-color: lawngreen
+}
+.tropical {
+    background-origin: padding-box;
+    backdrop-filter: initial;
+}
+.trick {
+    background-color: black;
+
+}
+
+.ryan {
+    background-color: yellow;
+}
+.class {
+    background-color: lawngreen;
+    width: 650px;
+    float: right;
+    padding-inline-start: unset
+}
